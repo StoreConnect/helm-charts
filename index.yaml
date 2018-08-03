@@ -3,9 +3,9 @@ entries:
   frost-server:
   - apiVersion: v1
     appVersion: "1.7"
-    created: 2018-07-31T10:53:20.050852838+02:00
+    created: 2018-08-03T14:42:55.575724834+02:00
     description: A Helm chart for the FROST-Server OGC SensorThings API implementation
-    digest: 64604c8ae4a77b9c955d95684fd1542286b7bf32c872c3cee51c737c028e4b7d
+    digest: e26e6135cfabd2cacf457b3ef17af912076826de0851abb269cf6e72cd6cd72f
     home: https://github.com/FraunhoferIOSB/FROST-Server
     icon: https://raw.githubusercontent.com/FraunhoferIOSB/FROST-Server/master/images/FROST-Server-darkgrey.png
     keywords:
@@ -16,6 +16,6 @@ entries:
     sources:
     - https://github.com/FraunhoferIOSB/FROST-Server
     urls:
-    - frost-server-1.7.2.tgz
-    version: 1.7.2
-generated: 2018-07-31T10:53:20.045281016+02:00
+    - frost-server-1.7.3.tgz
+    version: 1.7.3
+generated: 2018-08-03T14:42:55.574921685+02:00
