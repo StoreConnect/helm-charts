@@ -10,7 +10,7 @@ Then calling:
 ```
 $ helm repo list
 ```
-should display the new StoreConnect Helm charts repository entry:
+should display the StoreConnect Helm charts repository entry:
 ```
 storeconnect    https://storeconnect.github.io/helm-charts
 ```
