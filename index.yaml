@@ -21,6 +21,6 @@ entries:
     sources:
     - https://github.com/FraunhoferIOSB/FROST-Server
     urls:
-    - frost-server-1.7.6.tgz
+    - https://storeconnect.github.io/helm-charts/frost-server-1.7.6.tgz
     version: 1.7.6
 generated: 2018-08-03T22:27:59.732163533+02:00
